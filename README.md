@@ -1,16 +1,14 @@
-## Hi there 👋
+<div align="center">
+  <h1>Hi there, I'm NexaEndeavour 👋</h1>
+  <h3>Full-Stack Developer | AI Engineer | Automation Specialist</h3>
+</div>
 
-<!--
-**NexaEndeavour/NexaEndeavour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+```python
+skills = {
+    "full_stack": ["React", "Node.js", "MongoDB"],
+    "ai_ml": ["Prompt Engineering", "LLM Integration"],
+    "automation": ["Make.com", "API Integration"],
+}
