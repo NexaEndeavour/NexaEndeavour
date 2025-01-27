@@ -6,7 +6,6 @@
 ---
 
 ### 🛠️ Tech Stack & Skills
-
 ```json
 {
     "Full_Stack": [
