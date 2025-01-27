@@ -6,9 +6,20 @@
 ---
 
 ### 🛠️ Tech Stack & Skills
-```python
-skills = {
-    "full_stack": ["React", "Node.js", "MongoDB"],
-    "ai_ml": ["Prompt Engineering", "LLM Integration"],
-    "automation": ["Make.com", "API Integration"],
+
+```json
+{
+    "Full_Stack": [
+        "React",
+        "Node.js", 
+        "MongoDB"
+    ],
+    "AI_ML": [
+        "Prompt Engineering",
+        "LLM Integration"
+    ],
+    "Automation": [
+        "Make.com",
+        "API Integration"
+    ]
 }
