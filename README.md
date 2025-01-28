@@ -13,28 +13,6 @@
 
 ## 💻 Technologies & Expertise
 
-```javascript
-const skills = {
-    developmentStack: {
-        frontend: ["React", "JavaScript", "HTML5", "CSS3"],
-        backend: ["Node.js", "Express"],
-        database: ["MongoDB", "SQL"],
-        tools: ["Git", "Docker", "VS Code"]
-    },
-    artificialIntelligence: {
-        specialties: [
-            "Prompt Engineering",
-            "LLM Integration",
-            "AI Model Deployment",
-            "Natural Language Processing"
-        ]
-    },
-    automation: {
-        tools: ["Make.com"],
-        expertise: [
-            "API Integration",
-            "Workflow Automation",
-            "Process Optimization"
-        ]
-    }
-}
+- 💻 Full-Stack: React, Node.js, MongoDB
+- 🤖 AI: Prompt Engineering, LLM Integration
+- ⚡ Automation: Make.com, API Integration
