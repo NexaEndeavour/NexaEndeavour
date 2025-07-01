@@ -1,0 +1,13 @@
+# Modern GUI Application Requirements
+# No external dependencies required - uses only Python standard library
+# tkinter - GUI framework (included with Python)
+# logging - Logging framework (included with Python)
+# re - Regular expressions (included with Python)
+# platform - Platform detection (included with Python)
+# pathlib - Path handling (included with Python)
+# sys - System-specific parameters (included with Python)
+# io - Core tools for streams (included with Python)
+
+# For development and testing (optional)
+# pytest>=7.0.0
+# pytest-cov>=4.0.0
